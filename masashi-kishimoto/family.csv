@@ -1,0 +1,77 @@
+0000,name,parent,parent,clan
+0001,Otsusuki Kaguya,0000,0000,Otsusuki
+0002,Otsusuki Hagoromo,0001,0000,Otsusuki
+0003,Otsusuki Hamura,0001,0000,Otsusuki
+0004,Otsusuki Indra,0002,0000,Otsusuki
+0005,Otsusuki Ashura,0002,0000,Otsusuki
+0011,Senju Butsuma,0000,0000,Senju
+0012,Uchiha Tajima,0000,0000,Senju
+0013,Uzumaki Ashina,0000,0000,Uzumaki
+0021,Uchiha Madara,0012,0000,Uchiha
+0022,Uchiha Izuna,0012,0000,Uchiha
+0023,[Madara Sibling],0012,0000,Uchiha
+0024,[Madara Sibling],0012,0000,Uchiha
+0025,[Madara Sibling],0012,0000,Uchiha
+0026,Senju Hashirama,0011,0000,Senju
+0027,Senju Tobirama,0011,0000,Senju
+0028,Senju Itama,0011,0000,Senju
+0029,Senju Kawarama,0011,0000,Senju
+0030,Uzumaki Mito,0000,0000,Uzumaki
+0051,[Tsunade Parent],26,0000,Senju
+0052,Hyuga Hiashi,0000,0000,Hyuga
+0053,Hyuga Hizashi,0000,0000,Hyuga
+0054,Sarutobi Sasuke,0000,0000,Sarutobi
+0501,Sarutobi Hiruzen,10000,0000,Sarutobi
+0502,Biwako Sarutobi,0000,0000,Sarutobi
+0503,Might Dai,0000,0000,empty
+0504,Hatake Sakumo,0000,0000,Hatake
+0505,Danzo,0000,0000,empty
+0506,Mitokado Homura,0000,0000
+0507,Utatane Koharu,0000,0000
+0508,Rasa,0000,0000,empty
+0509,Karura,0000,0000,empty
+1001,Senju Tsunade,40011,0000,Senju
+1002,Orochimaru,0000,0000,empty
+1003,Jiraiya,0000,0000,empty
+1001,Uchiha Fugaku,0000,0000,Uchiha
+1002,Uchiha Mikoto,0000,0000,Uchiha
+1003,Namikaze Minato,0000,0000,Namikaze
+1004,Uzumaki Kushina,0000,0000,Uzumaki
+1005,Haruno Kizash,0000,0000,Haruno
+1006,Haruno Mebuki,0000,0000,Haruno
+1007,Uchiha Kagami,0000,0000,Uchiha
+1011,Sarutobi Asuma,10000,0000,Sarutobi
+1012,Yuhi Kurenai,0000,0000,Yuhi
+1013,Might Guy,0000,0000,empty
+1014,Hatake Kakashi,53,0000,Hatake
+1015,Nara Shikaku,0000,0000,Nara
+1016,Nara Yoshino,0000,0000,Nara
+1017,Uchiha Itachi,1001,1002,Uchiha
+1018,Uchiha Shisui,1007,0000,Uchiha
+1019,Iruka,0000,0000,empty
+1020,Yamato,0000,0000,empty
+1021,Ebisu,0000,0000,empty
+1022,Uchiha Obito,0000,0000,Uchiha
+1023,Nohara Rin,0000,0000,empty
+1024,Baki,0000,0000,empty
+1101,Hyuga Neji,0053,0000,Hyuga
+1102,Rock Lee,0000,0000,empty
+1103,Ten Ten,0000,0000,empty
+1104,Uchiha Sasuke,0101,0102,Uchiha
+1105,Uzumaki Naruto,0012,0013,Uzumaki
+1106,Haruno Sakura,0014,0015,Haruno
+1107,Nara Shikamaru,1015,1016,Nara
+1108,Yamanaka Ino,0000,0000,Yamanaka
+1109,Akimichi Choji,0000,0000,Akimichi
+1110,Hyuga Hinata,0052,0000,Hyuga
+1111,Aburame Shino,0000,0000,Aburame
+1112,Inuzuka Kiba,0000,0000,Inuzuka
+1113,Sai,0000,0000,empty
+1114,Kankuro,0508,0509,empty
+1115,Temari,0508,0509,empty
+1116,Gaara,0508,0509,empty
+1551,Sarutobi Mirai,0107,0108,Sarutobi
+1552,Hyuga Hanabi,0053,0000,Hyuga
+1561,Sarutobi Konohamaru,0000,0000,Sarutobi
+1562,Ise Udon,0000,0000,Ise
+1563,Kazamatsuri Moegi,0000,0000,Kazamatsuri
