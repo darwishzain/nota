@@ -1,16 +1,16 @@
 # Verse
-- Nolan-verse
-- Arrowverse
-- New 52 Young Justice
-- DC Extended Universe
-- New 52 Animated Movies
-- Tomorrowverse
-- Reboot
+- **Nolan-verse**
+- **Arrowverse**
+- **New 52 Young Justice**
+- **DC Extended Universe**
+- **New 52 Animated Movies**
+- **Tomorrowverse**
+- **DC Reboot**
 
 ## Nolan-verse
-- [x] Batman Begins
-- [x] The Dark Knight
-- [x] The Dark Knight Rises
+- [x] **Batman Begins** (2005)
+- [x] **The Dark Knight** (2008)
+- [x] **The Dark Knight Rises** (2012)
 
 ## Arrowverse (2012-2023)
 - [x] **Arrow** (2012-2020)
@@ -23,39 +23,40 @@
 - [x] **Batwoman** (2019-2022)
 
 ## New 52 Young Justice (2010-2022)
-- [x] Young Justice (2010-2012)
-- [x] Young Justice : Invasion (2012-2013)
-- [x] Young Justice : Outsiders (2019)
-- [x] Young Justice : Phantoms (2022)
+- [x] **Young Justice** (2010-2012)
+- [x] **Young Justice : Invasion** (2012-2013)
+- [x] **Young Justice : Outsiders** (2019)
+- [x] **Young Justice : Phantoms** (2022)
 
 ## DC Extended Universe (2013-2023)
-**Man of Steel** (2013)
-**Batman v Superman: Dawn of Justice** (2016)
-**Suicide Squad** (2016)
-**Wonder Woman** (2017)
-**Justice League** (2017)
-**Aquaman**	(2018)
-**Shazam!**	(2019)
-**Birds of Prey** (2020)
-**Wonder Woman 1984** (2020)
-**Zack Snyder's Justice League** (2021)
-**The Suicide Squad** (2021)
-**Black Adam** (2022)
-**Shazam! Fury of the Gods** (2023)
-**The Flash** (2023)
-**Blue Beetle**	(2023)
-**Aquaman and the Lost Kingdom** (2023)
+- [x] **Man of Steel** (2013)
+- [x] **Batman v Superman: Dawn of Justice** (2016)
+- [x] **Suicide Squad** (2016)
+- [ ] **Wonder Woman** (2017)
+- [x] **Justice League** (2017)
+- [x] **Aquaman**	(2018)
+- [x] **Shazam!**	(2019)
+- [x] **Birds of Prey** (2020)
+- [ ] **Wonder Woman 1984** (2020)
+- [x] **Zack Snyder's Justice League** (2021)
+- [x] **The Suicide Squad** (2021)
+- [x] **Black Adam** (2022)
+- [x] **Shazam! Fury of the Gods** (2023)
+- [x] **The Flash** (2023)
+- [x] **Blue Beetle**	(2023)
+- [ ] **Aquaman and the Lost Kingdom** (2023)
 
 ## New 52 Animated Movie (2013-2020)
 - [x] **Justice League: The Flashpoint Paradox**
 - [x] **Justice League: War**
 - [x] **Son of Batman**
 - [x] **Justice League: Throne of Atlantis**
-  - [x] **Nightwing and Robin**
 - [x] **Batman vs. Robin**
+  - [x] **Nightwing and Robin**
 - [x] **Batman: Bad Blood**
 - [x] **Justice League vs. Teen Titans**
 - [x] **Justice League Dark**
+  - [x] **Constantine City of Demons** (2018-2019)
 - [x] **Teen Titans: The Judas Contract**
 - [x] **Suicide Squad: Hell to Pay**
 - [x] **The Death of Superman**
@@ -76,5 +77,5 @@
 - [ ] **Justice League: Crisis on Infinite Earths – Part Two**
 - [ ] **Justice League: Crisis on Infinite Earths – Part Three**
 
-## Reboot
+## DC Reboot
 - [x] The Batman
