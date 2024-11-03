@@ -1,1 +1,2 @@
-prompt
+Pada penghujung abad ke 21, kemajuan dunia berkembang dengan pesat setelah sumber tenaga alternatif dalam bentuk mineral telah dijumpai di beberapa lokasi di bumi. Malangya, sumber tenaga tersebut sangatlah sensitif kerana tenaga tersebut akan hilang sekiranya dipisahkan dari repositori mineral tersebut. Sumber tenaga tersebut pertama kali dijumpai di kawasan beriklim tundra di negara Russia. Penemuan tersebut telah mencetuskan perang demi merebut sumber tenaga tersebut. Republik Amerika Utara telah menempatkan aset ketenteraan mereka di Laut Bering manakala  Kesatuan Asia Timur pula menempatkan aset ketenteraan mereka di sempadan China dan Russia. Russia mula mengerahkan tentera mereka untuk mempertahankan sumber tenaga tersebut daripada negara luar.
+
