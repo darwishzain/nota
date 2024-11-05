@@ -1,0 +1,59 @@
+- [ ] Amarah Mumia H01
+- [ ] Kubu Minotaur Crete H02
+- [x] Harta Keramat Laut Dalam H03
+- [ ] Robot Colossi Ganges H04
+- [ ] Samseng Lanun Jerung H05
+- [x] Raksasa Primat H06
+- [ ] Bara Naga Berapi H07
+- [ ] Benteng Pejuang Langit H08
+- [ ] Menyentap Penjaga Emas H09
+- [ ] Tarung Epik H10
+- [ ] Penyusup Ribut Pasir H11
+- [ ] Pejuang Bumi H12
+- [ ] Sumpahan Purba H13
+- [ ] Rasukan Dominan H14
+- [ ] Pemburu Bertukar Nyawa H15
+- [ ] Jebak Kuku Besi H16
+- [ ] Rahsia Pulau Bergerak H17
+- [ ] Bahana Sulur Gergasi H18
+- [ ] Buruan Kerdil H19
+- [ ] Ceritera Alam Pari-Pari H20
+- [ ] Cabaran Garuda H21
+- [ ] Tawanan Khianat H22
+- [ ] Kuasa Gelap Meluap H23
+- [ ] Cahaya Penjaga Bintang H24
+- [x] Puaka Pohon Kelapa H25
+- [ ] Terlepas Dari Cengkaman Maut H26
+- [ ] Menjejak Ferocious Four H27
+- [ ] Raksaksa Gunung Tibet H28
+- [ ] Keramat Kapak Purba H29
+- [x] Bahaya Zaman Dinosaur H30
+- [ ] H31
+- [ ] H32
+- [ ] H33
+- [ ] H34
+- [ ] H35
+- [ ] H36
+- [ ] H37
+- [ ] H38
+- [ ] H39
+- [ ] H40
+- [ ] H41
+- [ ] H42
+- [ ] H43
+- [ ] H44
+- [ ] H45
+- [ ] H46
+- [ ] H47
+- [ ] H48
+- [ ] H49
+- [ ] H50
+- [ ] H51
+- [ ] H52
+- [ ] H53
+- [ ] H54
+- [ ] H55
+- [ ] H56
+- [ ] H57
+- [ ] H58
+- [ ] H59
