@@ -1,3 +1,7 @@
+# Kandungan
+- (Fame)[]
+
+# Fame
 | Tier/Enchant | Log | Ore | Hide | Fibre | Stone |
 | --- | --- | --- | --- | --- | --- |
 | T1 | - |  | - |  | - |
@@ -27,3 +31,19 @@
 | /2 | | | | | |
 | /3 | | | | | |
 | /4 | | | | | |
+
+# Laborer
+
+| Laborer | Task | Yield |
+| :---------: | :---------: | :---: |
+| Lumberjack | Gather Log | Wood Log |
+| Stone Cutter | Gather Stone | Stone |
+| Prospector | Gather Ore | Ore |
+| Cropper | Gather Fiber | Fiber |
+| Gamekeeper | Gather Hide | Hide |
+| Mercenary | Kill Mob | Silver |
+| Blacksmith | Craft at Warrior Forge | Metal Bar, Plank, Cloth |
+| Fletcher | Craft at Hunter's Lodge | Leather, Metal Bar, Plank |
+| Imbuer | Craft at Mage's Tower | Cloth, Plank, Metal Bar |
+| Tinker | Craft at Toolmaker| Plank, Metal Bar, Cloth, Leather |
+| Fisherman | Catch Fish | Fish |
